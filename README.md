@@ -156,7 +156,6 @@
 - iKuuu VPN：[https://ikuuu.ltd/](https://ikuuu.ltd/user##)
 - 数码魅力：[https://www.111003.ml/](https://www.111003.ml/)
 - 秋实云（注册需购买邀请码）：[https://www.chenqiushi.cf/](https://www.chenqiushi.cf/)
-- 免费SSR/V2ray机场导航推荐 |我爱白嫖 | 52BP：[https://52bp.org/free-airport.html](https://52bp.org/free-airport.html)
 - 
 
 ## 付费机场
