@@ -37,8 +37,8 @@
 - [https://determined-torvalds-2d879d.netlify.app/](https://determined-torvalds-2d879d.netlify.app/)
 - [https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray](https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray)
 - [https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub](https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub)
+- [https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md](https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md)
 - [https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBakdEc3oydC1PRFJnWDdFQ0VmenlmTWN2MWFPP2U9WGcxYXJY](https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBakdEc3oydC1PRFJnWDdFQ0VmenlmTWN2MWFPP2U9WGcxYXJY)
-- 
 
 ### SSR
 
@@ -54,10 +54,12 @@
 - [https://raw.githubusercontent.com/voken1/AutoSSR/master/recent](https://raw.githubusercontent.com/voken1/AutoSSR/master/recent)
 - [https://raw.githubusercontent.com/bingshengyang/ssr2/master/a.html](https://raw.githubusercontent.com/bingshengyang/ssr2/master/a.html)
 - [https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb)
+- [https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md](https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md)
 
 ### SS
 
 - [https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub](https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub)
+- [https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md](https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md)
 
 ### V2Ray/SSR
 
